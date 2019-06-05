@@ -2,7 +2,7 @@ package android2ee.com.myapplication;
 
 import android.animation.ObjectAnimator;
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.util.Log;
 
 import com.google.android.things.pio.Gpio;
